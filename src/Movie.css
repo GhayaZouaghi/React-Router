@@ -1,0 +1,9 @@
+.movieDetails {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: azure;
+  margin: 100px;
+  align-items: center;
+}
